@@ -20,6 +20,11 @@ This project demonstrates my approach to integrating **external knowledge source
 ## Installation & Usage
 Since this is a Jupyter Notebook, all required installations are included in the first code block. Simply run the notebook cells sequentially to set up the environment and execute the workflow.
 
+## Requirements
+
+A Hugging Face API Token is required to run this notebook. Ensure you have a valid token and set it up in your environment before execution.
+Since this is a Jupyter Notebook, all required installations are included in the first code block. Simply run the notebook cells sequentially to set up the environment and execute the workflow.
+
 ## Future Enhancements
 - Support for additional document formats (e.g., DOCX, TXT)
 - Advanced chunking and embedding strategies for better retrieval
